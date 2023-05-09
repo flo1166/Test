@@ -1,1 +1,3 @@
-print('Hello World!')
+import addon
+print('Hello World!!')
+print(day)
